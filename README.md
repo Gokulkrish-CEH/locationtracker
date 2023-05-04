@@ -100,10 +100,11 @@ Available Templates :
 ### Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
 
 ```bash
-git clone https://github.com/Gokulkrish-CEH/Location-Tracker.git
+git clone https://github.com/Gokulkrish-CEH/locationtracker.git
 cd Location-Tracker/
 chmod +x install.sh
 ./install.sh
+./locationtracker.py
 ```
 
 ## cloudflare Tunnels
