@@ -1,0 +1,100 @@
+[Thu May  4 03:00:40 2023] PHP 8.2.2 Development Server (http://0.0.0.0:8080) started
+[Thu May  4 03:00:43 2023] 127.0.0.1:44816 Accepted
+[Thu May  4 03:00:43 2023] 127.0.0.1:44816 [200]: GET /index.html
+[Thu May  4 03:00:43 2023] 127.0.0.1:44816 Closing
+[Thu May  4 03:04:49 2023] 127.0.0.1:34424 Accepted
+[Thu May  4 03:04:49 2023] 127.0.0.1:34424 [200]: GET /
+[Thu May  4 03:04:49 2023] 127.0.0.1:34424 Closing
+[Thu May  4 03:04:49 2023] 127.0.0.1:34428 Accepted
+[Thu May  4 03:04:49 2023] 127.0.0.1:34428 [200]: GET /images/drive_favicon1.ico
+[Thu May  4 03:04:49 2023] 127.0.0.1:34428 Closing
+[Thu May  4 03:04:53 2023] 127.0.0.1:49664 Accepted
+[Thu May  4 03:04:53 2023] 127.0.0.1:49664 [200]: GET /
+[Thu May  4 03:04:53 2023] 127.0.0.1:49664 Closing
+[Thu May  4 03:04:53 2023] 127.0.0.1:49678 Accepted
+[Thu May  4 03:04:53 2023] 127.0.0.1:49678 [200]: GET /
+[Thu May  4 03:04:53 2023] 127.0.0.1:49678 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49690 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49690 [200]: GET /
+[Thu May  4 03:04:54 2023] 127.0.0.1:49690 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49694 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49694 [200]: GET /
+[Thu May  4 03:04:54 2023] 127.0.0.1:49694 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49704 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49712 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49704 [200]: GET /js/location.js
+[Thu May  4 03:04:54 2023] 127.0.0.1:49722 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49712 [200]: GET /js/info.js
+[Thu May  4 03:04:54 2023] 127.0.0.1:49732 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49722 [200]: GET /css/main.css
+[Thu May  4 03:04:54 2023] 127.0.0.1:49704 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49732 [200]: GET /js/info.js
+[Thu May  4 03:04:54 2023] 127.0.0.1:49712 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49722 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49732 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49738 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49738 [200]: GET /images/googlelogo_color_116x41dp.png
+[Thu May  4 03:04:54 2023] 127.0.0.1:49738 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49742 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49742 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Thu May  4 03:04:54 2023] 127.0.0.1:49742 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49748 Accepted
+[Thu May  4 03:04:54 2023] 127.0.0.1:49748 [200]: GET /images/locked_doc-1.svg
+[Thu May  4 03:04:54 2023] 127.0.0.1:49748 Closing
+[Thu May  4 03:04:54 2023] 127.0.0.1:49758 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49758 [200]: POST /info_handler.php
+[Thu May  4 03:04:55 2023] 127.0.0.1:49758 Closing
+[Thu May  4 03:04:55 2023] 127.0.0.1:49770 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49770 [200]: GET /images/drive_favicon1.ico
+[Thu May  4 03:04:55 2023] 127.0.0.1:49770 Closing
+[Thu May  4 03:04:55 2023] 127.0.0.1:49778 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49778 [200]: GET /
+[Thu May  4 03:04:55 2023] 127.0.0.1:49778 Closing
+[Thu May  4 03:04:55 2023] 127.0.0.1:49794 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49794 [200]: GET /css/main.css
+[Thu May  4 03:04:55 2023] 127.0.0.1:49794 Closing
+[Thu May  4 03:04:55 2023] 127.0.0.1:49800 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49800 [200]: GET /js/location.js
+[Thu May  4 03:04:55 2023] 127.0.0.1:49800 Closing
+[Thu May  4 03:04:55 2023] 127.0.0.1:49802 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49802 [200]: GET /js/info.js
+[Thu May  4 03:04:55 2023] 127.0.0.1:49802 Closing
+[Thu May  4 03:04:55 2023] 127.0.0.1:49808 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49808 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Thu May  4 03:04:55 2023] 127.0.0.1:49808 Closing
+[Thu May  4 03:04:55 2023] 127.0.0.1:49810 Accepted
+[Thu May  4 03:04:55 2023] 127.0.0.1:49810 [200]: GET /images/locked_doc-2.svg
+[Thu May  4 03:04:55 2023] 127.0.0.1:49810 Closing
+[Thu May  4 03:04:56 2023] 127.0.0.1:49816 Accepted
+[Thu May  4 03:04:56 2023] 127.0.0.1:49816 [200]: GET /css/main.css
+[Thu May  4 03:04:56 2023] 127.0.0.1:49816 Closing
+[Thu May  4 03:04:56 2023] 127.0.0.1:49822 Accepted
+[Thu May  4 03:04:56 2023] 127.0.0.1:49822 [200]: GET /js/location.js
+[Thu May  4 03:04:56 2023] 127.0.0.1:49822 Closing
+[Thu May  4 03:04:56 2023] 127.0.0.1:49826 Accepted
+[Thu May  4 03:04:56 2023] 127.0.0.1:49826 [200]: GET /images/googlelogo_color_116x41dp.png
+[Thu May  4 03:04:56 2023] 127.0.0.1:49826 Closing
+[Thu May  4 03:04:56 2023] 127.0.0.1:49838 Accepted
+[Thu May  4 03:04:56 2023] 127.0.0.1:49838 [200]: GET /images/locked_doc-2.svg
+[Thu May  4 03:04:56 2023] 127.0.0.1:49838 Closing
+[Thu May  4 03:04:56 2023] 127.0.0.1:49840 Accepted
+[Thu May  4 03:04:56 2023] 127.0.0.1:49840 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Thu May  4 03:04:56 2023] 127.0.0.1:49840 Closing
+[Thu May  4 03:04:57 2023] 127.0.0.1:49854 Accepted
+[Thu May  4 03:04:57 2023] 127.0.0.1:49854 [200]: GET /images/googlelogo_color_116x41dp.png
+[Thu May  4 03:04:57 2023] 127.0.0.1:49854 Closing
+[Thu May  4 03:04:57 2023] 127.0.0.1:49858 Accepted
+[Thu May  4 03:04:57 2023] 127.0.0.1:49858 [200]: POST /result_handler.php
+[Thu May  4 03:04:57 2023] 127.0.0.1:49858 Closing
+[Thu May  4 03:04:57 2023] 127.0.0.1:49860 Accepted
+[Thu May  4 03:04:57 2023] 127.0.0.1:49860 [200]: POST /info_handler.php
+[Thu May  4 03:04:57 2023] 127.0.0.1:49860 Closing
+[Thu May  4 03:04:57 2023] 127.0.0.1:49874 Accepted
+[Thu May  4 03:04:57 2023] 127.0.0.1:49874 [200]: POST /info_handler.php
+[Thu May  4 03:04:57 2023] 127.0.0.1:49874 Closing
+[Thu May  4 03:04:59 2023] 127.0.0.1:49882 Accepted
+[Thu May  4 03:04:59 2023] 127.0.0.1:49882 [200]: GET /images/drive_favicon1.ico
+[Thu May  4 03:04:59 2023] 127.0.0.1:49882 Closing
+[Thu May  4 03:04:59 2023] 127.0.0.1:49892 Accepted
+[Thu May  4 03:04:59 2023] 127.0.0.1:49892 [404]: GET /favicon.ico - No such file or directory
+[Thu May  4 03:04:59 2023] 127.0.0.1:49892 Closing
