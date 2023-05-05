@@ -101,7 +101,7 @@ Available Templates :
 
 ```bash
 git clone https://github.com/Gokulkrish-CEH/locationtracker.git
-cd Location-Tracker/
+cd locationtracker/
 chmod +x install.sh
 ./install.sh
 ./locationtracker.py
@@ -122,6 +122,6 @@ as an alterntive to ngrok
 
 **YouTube**
 
-<a href="https://www.youtube.com/channel/UCXy84Xr78jA9sexgscO7GZA">
+<a href="https://youtu.be/wMf1JfNkves">
   <img src="https://dynamics365blocks.files.wordpress.com/2018/02/gps-tracking.png">
 </a>
